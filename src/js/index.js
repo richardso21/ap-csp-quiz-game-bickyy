@@ -13,7 +13,7 @@ const init = function () {
             src="${item.img}"
             alt=""
         />
-        <h2 class= "qan">${item.number}. ${item.question}</h2>
+        <h2 class= "qan" id="${item.number}">${item.number}. ${item.question}</h2>
        
         <h3 class= "answer">
           <input type="radio" name="${item.number}"  value="${item.choices.a}">

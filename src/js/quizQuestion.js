@@ -8,7 +8,7 @@ const quizQuestion = [
       b: "David Copperfield",
       c: "Harry Houdini",
     },
-    correctAnswer: "c",
+    correctAnswer: "Harry Houdini",
 
   },
   {
@@ -21,7 +21,7 @@ const quizQuestion = [
       b: "Teacher",
       c: "Plumber",
     },
-    correctAnswer: "c",
+    correctAnswer: "Plumber",
   },
   {
     img: "https://cdn.pixabay.com/photo/2018/11/25/19/13/tree-3838122_1280.jpg",
@@ -32,7 +32,7 @@ const quizQuestion = [
       b: "Singer",
       c: "Actor",
     },
-    correctAnswer: "a",
+    correctAnswer: "Director",
   },
   {
     img:
@@ -44,7 +44,7 @@ const quizQuestion = [
       b: "Kevin",
       c: "Sam", 
     },
-    correctAnswer: "b",
+    correctAnswer: "Kevin",
   },
   {
     img:
@@ -56,7 +56,7 @@ const quizQuestion = [
       b: "55",
       c: "50",
     },
-    correctAnswer: "c",
+    correctAnswer: "50",
 
   },
   {
@@ -68,7 +68,7 @@ const quizQuestion = [
       b: "A Mushroom",
       c: "A House",
     },
-    correctAnswer: "a",
+    correctAnswer: "A Tree",
   },
   {
     img:"https://images.unsplash.com/photo-1558679928-be7e02981a07?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80",
@@ -79,7 +79,7 @@ const quizQuestion = [
       b: "15",
       c: "20",
     },
-    correctAnswer: "a",
+    correctAnswer: "18",
   },
   {
     img:"https://images.unsplash.com/photo-1561628898-71993b042329?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2089&q=80",
@@ -90,7 +90,7 @@ const quizQuestion = [
       b: "1982",
       c: "1988",
     },
-    correctAnswer: "b",
+    correctAnswer: "1982",
   },
   {
     img: "https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80",
@@ -101,7 +101,7 @@ const quizQuestion = [
       b: "PubG",
       c: "League Of Legends",
     },
-    correctAnswer: "a",
+    correctAnswer: "Grand Theft Auto V",
   },
   {
     img:"https://images.unsplash.com/photo-1503792501406-2c40da09e1e2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1652&q=80",
@@ -111,7 +111,7 @@ const quizQuestion = [
       a: "Johnny Depp",
       b: "Paul Newman",
       c: "Humphrey Bogart",
-    correctAnswer: "a",
+    correctAnswer: "Johnny Depp",
     },
   },
 ];
